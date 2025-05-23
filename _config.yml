@@ -18,8 +18,7 @@ author: Aryan Khokhar
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Projects: "projects"
+  {}
 
 ################
 # --- Logo --- #
